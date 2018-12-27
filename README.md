@@ -1,2 +1,2 @@
 # spring-petclinic
-A fresh Project initial repository
+A fresh Project initial repository.
